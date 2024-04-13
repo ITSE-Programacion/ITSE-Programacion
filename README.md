@@ -1,5 +1,7 @@
 ### Bienvenidos 👋
 
+Repositorio creado con fines de practica y aprendizaje para el ciclo lectivo 2024 en el Instituto Tecnológico de Santiago del Estero.
+
 <!--
 **ITSE-Python/ITSE-Python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
